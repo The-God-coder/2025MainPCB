@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/teensy.pretty")(options "")(descr ""))
+  (lib (name "SlideSW")(type "KiCad")(uri "${KIPRJMOD}/SlideSW.pretty")(options "")(descr ""))
+  (lib (name "RockerSwitch")(type "KiCad")(uri "${KIPRJMOD}/RockerSwitch.pretty")(options "")(descr ""))
+  (lib (name "MotorDriver")(type "KiCad")(uri "${KIPRJMOD}/MotorDriver.pretty")(options "")(descr ""))
+  (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.pretty")(options "")(descr ""))
+  (lib (name "VNH")(type "KiCad")(uri "${KIPRJMOD}/LIB_VNH7070ASTR/VNH7070ASTR/KiCad/VNH.pretty")(options "")(descr ""))
+)
