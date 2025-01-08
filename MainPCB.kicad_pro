@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "MainPCB.dsn",
-      "step": "",
+      "step": "MainPCB.step",
       "svg": "",
       "vrml": ""
     },

@@ -6,4 +6,5 @@
   (lib (name "MotorDriver")(type "KiCad")(uri "${KIPRJMOD}/MotorDriver.pretty")(options "")(descr ""))
   (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.pretty")(options "")(descr ""))
   (lib (name "VNH")(type "KiCad")(uri "${KIPRJMOD}/LIB_VNH7070ASTR/VNH7070ASTR/KiCad/VNH.pretty")(options "")(descr ""))
+  (lib (name "BoostConverter")(type "KiCad")(uri "/home/aniket/Documents/2025SoccerOpen/BoostPCB/BoostConverter.pretty")(options "")(descr ""))
 )
